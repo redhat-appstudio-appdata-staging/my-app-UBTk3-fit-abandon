@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-awaj
     app.kubernetes.io/part-of: my-app
-  name: devfile-sample-awajz5lb
+  name: devfile-sample-awaj6svv
 spec:
   path: /
   port:
