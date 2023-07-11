@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: devfile-sample-awaj
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
